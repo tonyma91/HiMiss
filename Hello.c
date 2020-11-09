@@ -3,7 +3,8 @@ public class Hello{
 		System.out.println("Hello");
 		/*develop*/
 		/*dev02-new*/
-		//tag
+		//tag1
+		//tag2
 		//DEVO2
 	}
 
